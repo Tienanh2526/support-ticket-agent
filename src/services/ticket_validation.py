@@ -4,7 +4,7 @@ import pandas as pd
 
 from src.schemas.validation import ValidationIssues, ValidationResult
 
-# Theo docs/04_data_spec.md: chỉ 2 cột này bắt buộc, các cột khác là tuỳ chọn.
+# Theo docs/03_data_spec.md: chỉ 2 cột này bắt buộc, các cột khác là tuỳ chọn.
 REQUIRED_COLUMNS = ["ticket_id", "body"]
 
 
