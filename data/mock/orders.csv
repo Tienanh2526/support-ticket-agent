@@ -1,0 +1,6 @@
+order_id,status,carrier,shipped_at,estimated_delivery,payment_status,total_vnd
+ORD1001,in_transit,GHN,2026-09-26,2026-10-03,paid,450000
+ORD1002,delivered,GHTK,2026-09-24,2026-09-27,paid,890000
+ORD1003,processing,,,,charged_twice,1250000
+ORD1004,delivered,GHN,2026-09-28,2026-10-01,paid,320000
+ORD1005,in_transit,VNPost,2026-09-30,2026-10-06,paid,210000
